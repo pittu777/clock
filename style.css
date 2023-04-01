@@ -80,7 +80,7 @@ transform: scale(1.05);
     font-size: 5vw;
   }
 }
-In this modified code, the font sizes and margins for the h1, h2, and a elements have been reduced to better fit on smaller screens. The #clock element has also been adjusted with a font size of 5vw. The margin property for the a and #clock elements has been reduced to 10% and 5%, respectively, to prevent them from overflowing on smaller screens.
+
 
 
 

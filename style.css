@@ -6,7 +6,6 @@ body {
     color: #fff;
     font-family: Arial, sans-serif;
 }
-<<<<<<< HEAD
 h1{
   display: flex;
   justify-content: center;
@@ -16,12 +15,7 @@ h1{
 
 }
 
-=======
-h2 {
-        text-align: center;
-        font-size: 2rem;
-  }
->>>>>>> 6bcfbba5417d155f15631647dcb40faec02f6655
+
 #clock{
     text-align: center;
     /* font-size: 10vw; */

@@ -25,7 +25,7 @@ function displayClock(){
         sec='0'+sec;
     }
     document.getElementById('clock').innerHTML=hrs+':'+min+':'+sec+' '+ pittu;
-    document.getElementById('clock').style.color='steelblue';
+    document.getElementById('clock').style.color='white';
 }
 
 

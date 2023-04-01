@@ -7,6 +7,12 @@ body {
     color: #fff;
     font-family: Arial, sans-serif;
 }
+h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
 #clock{
     text-align: center;
     font-size: 10vw;

@@ -14,6 +14,36 @@ h1{
     color: black;
 
 }
+h2{
+  display: flex;
+  justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: black;
+
+}
+
+
+a{
+  text-align: center;
+  /* font-size: 10vw; */
+  padding: 20px;
+  background-color: #555;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  display: flex;
+justify-content: center;
+  align-items: center;
+  margin: 0 23%;
+  transition: transform 0.3s ease-in-out;
+  cursor: pointer;
+  text-decoration: none;
+  
+  font-size: 30px;
+}
+a:hover{
+transform: scale(1.05);
+}
 
 
 #clock{

@@ -5,9 +5,9 @@ function displayClock(){
     var hrs=time.getHours();
     var min=time.getMinutes();
     var sec=time.getSeconds();
-    var pittu='AM';
+    var pittu='PM';
     if(hrs>12){
-        pittu='PM';
+        pittu='AM';
     }
     if(hrs>12){
         hrs=hrs-12;
